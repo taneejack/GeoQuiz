@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="next_button">Next</string>
+
+    <string name="question_1">Lightning never strikes in the same place twice.</string>
+    <string name="question_2">If you cry in space the tears just stick to your face.</string>
+    <string name="question_3">If you cut an earthworm in half, both halves can regrow their body.</string>
+    <string name="question_4">Humans can distinguish between over a trillion different smells.</string>
+    <string name="question_5">Adults have fewer bones than babies do.</string>
+    <string name="question_6">Napoleon Bonaparte was extremely short.</string>
+    <string name="question_7">Goldfish only have a memory of three seconds.</string>
+    <string name="question_8">There are more cells of bacteria in your body than there are human cells.</string>
+    <string name="question_9">Your fingernails and hair keep growing after you die.</string>
+
+    <string name="warning_text">Do you really want to do this ? </string>
+    <string name="show_answer_button">Display Answer</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="judgment_toast">Cheating is wrong unless no one realize </string>
+</resources>
